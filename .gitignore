@@ -1,0 +1,14 @@
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Environnement virtuel (TRES IMPORTANT)
+.venv/
+venv/
+
+# Logs et journaux
+*.log
+journal_bot.txt
+
+# Tes données perso
+pseudos.txt
